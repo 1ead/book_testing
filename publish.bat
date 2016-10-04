@@ -5,4 +5,5 @@
    xcopy _book\*.* . /e /y
    git add --all
    git commit -m "pushing new content"
+   git push origin --delete gh-pages
    git push origin gh-pages
