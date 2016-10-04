@@ -1,3 +1,4 @@
+   gitbook build
    git checkout master
    git branch gh-pages -D
    git branch gh-pages
