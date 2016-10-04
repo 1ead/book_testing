@@ -1,7 +1,5 @@
    gitbook build
    git checkout master
-   git branch gh-pages -D
-   git branch gh-pages
    git checkout gh-pages
    xcopy _book\*.* . /e /y
    git add --all
