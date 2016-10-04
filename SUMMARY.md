@@ -2,8 +2,7 @@
 
 ## Summary
 * [Introduction](README.md)
-* [Лирическое вступление](intro/README.md)
-    * [Кто](intro/who.md)
+    * [Бэйджи](intro/badges.md)
     * [Почему](intro/why.md)
     * [Зачем](intro/what-for.md)
     * [Для кого](intro/for-whom.md)
